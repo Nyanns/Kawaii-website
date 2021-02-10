@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "HookyQR.beautify",
+    "editor.formatOnSave": true,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "editor.formatOnPaste": true,
+    "liveServer.settings.port": 5501
+}
